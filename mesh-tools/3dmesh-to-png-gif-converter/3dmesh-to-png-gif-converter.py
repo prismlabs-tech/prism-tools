@@ -24,11 +24,11 @@ import os
 import numpy as np
 from PIL import Image
 
-# Configuration parameters
-obj_file_path = "25625b19-490b-4db6-88e0-d799732a9157/ebro_1724335867_1.4.0-19926/avatar.obj"
-texture_file_path = "25625b19-490b-4db6-88e0-d799732a9157/ebro_1724335867_1.4.0-19926/texture.png"
-output_folder = "25625b19-490b-4db6-88e0-d799732a9157/ebro_1724335867_1.4.0-19926/3d-screenshots"
-gif_path = "25625b19-490b-4db6-88e0-d799732a9157/ebro_1724335867_1.4.0-19926/avatar-360.gif"
+# Configuration parameters (replace with your own file paths)
+obj_file_path = "path/avatar.obj"
+texture_file_path = "path/texture.png"
+output_folder = "path/3d-screenshots"
+gif_path = "path/avatar-360.gif"
 
 # Adjustable parameters
 rotation_step = 2  # Degrees per step in rotation
