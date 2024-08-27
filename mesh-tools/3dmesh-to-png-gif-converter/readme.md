@@ -49,11 +49,11 @@ This tool is designed to run with Python 3.x. You will need the following Python
 Navigate to the `3dmesh-to-png-gif-converter` directory and make sure to update the file paths for the scan data you want to process (including mesh obj and texture png files) and for the outputs of the script:
 
 ```python
-# File paths
-obj_file_path = "25625b19-490b-4db6-88e0-d799732a9157/ebro_1724335867_1.4.0-19926/avatar.obj"
-texture_file_path = "25625b19-490b-4db6-88e0-d799732a9157/ebro_1724335867_1.4.0-19926/texture.png"
-output_folder = "25625b19-490b-4db6-88e0-d799732a9157/ebro_1724335867_1.4.0-19926/3d-screenshots"
-gif_path = "25625b19-490b-4db6-88e0-d799732a9157/ebro_1724335867_1.4.0-19926/avatar-360.gif"
+# Configuration parameters (replace with your own file paths)
+obj_file_path = "path/avatar.obj"
+texture_file_path = "path/texture.png"
+output_folder = "path/3d-screenshots"
+gif_path = "path/avatar-360.gif"
 ```
 
 2. Configure the parameters of the script:
