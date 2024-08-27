@@ -3,7 +3,7 @@
 
 ## Available Tools
 
-### 1. [3D Mesh to PNG to GIF Converter](./mesh-tools/3dmesh-to-png-to-gif/README.md)
+### 1. [3D Mesh to PNG to GIF Converter](./mesh-tools/3dmesh-to-png-gif-converter/README.md)
 
 This tool allows you to convert 3D mesh OBJ files into a series of PNG images, which can then be compiled into a high-quality rotating GIF. It's ideal for generating visual assets from 3D models, whether for use in marketing materials or within your applications.
 
