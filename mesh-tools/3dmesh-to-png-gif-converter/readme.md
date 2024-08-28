@@ -72,7 +72,7 @@ dither_type = Image.FLOYDSTEINBERG  # Dithering method for GIF creation (e.g., I
 
 3. Generate PNG Screenshots and GIF:
 
-Once files paths and configurations are set, run the script:
+Once file paths and configurations are set, run the script:
 ```bash
 python3 3dmesh-to-png-gif-converter.py
 ```
