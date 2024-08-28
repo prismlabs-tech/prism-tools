@@ -1,7 +1,6 @@
 # 3D Mesh to PNG to GIF Converter
 
 This tool is part of the **Prism Mesh Tools** suite within the Prism Tools repository. It is designed to convert 3D mesh OBJ files into a sequence of PNG images, which can then be compiled into a high-quality GIF. This tool is ideal for creating visual assets from 3D models, whether for use in marketing materials or within your applications.
-
 ![Alt Text](https://github.com/prismlabs-tech/prism-tools/blob/main/mesh-tools/asset-samples/prism-sample-avatar-360-2-degree-step.gif)
 
 ## Features
