@@ -20,7 +20,7 @@ This tool is part of the **Prism Mesh Tools** suite within the Prism Tools repos
 
 ### Output
 - Up to 360 PNG snapshots of the avatar at different rotation angles.
-- GIF generated from the 180 png files.
+- GIF generated from the PNG files.
 
 ## Dependencies
 
