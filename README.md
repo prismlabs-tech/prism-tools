@@ -1,6 +1,5 @@
 # prism-tools
-**Prism Labs Tools** is a suite of utilities designed to allow Prism Labs' Partners to easily create and manipulate scan assets for various purposes. Whether you're generating assets for marketing or integrating 3D content into your products and apps, Prism Mesh Tools provides the flexibility and power to streamline your workflow.
-
+**Prism Labs Tools** is a suite of utilities designed to allow Prism Labs' Partners to easily create and manipulate scan assets for various purposes.
 ## Available Tools
 
 ### 1. [3D Mesh to PNG to GIF Converter](./mesh-tools/3dmesh-to-png-gif-converter/readme.md)
