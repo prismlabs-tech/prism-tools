@@ -18,6 +18,7 @@ This script processes a given 3D model (OBJ file), upscales its vertex count usi
 
 This script requires the following software:
 - **Blender**: Version 2.8+ (tested on Blender 4.2.3 LTS).
+- **Python**: Version 3.12+
 
 ## How to Install Dependencies
 
