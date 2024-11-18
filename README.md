@@ -28,7 +28,7 @@ This script processes a given 3D model (OBJ file), upscales its vertex count usi
 
 To get started with Prism Mesh Tools, navigate to the specific tool you wish to use. Each tool has its own directory containing the necessary scripts and a detailed README with usage instructions.
 
-There's an assets folder with sample obj files to help you get started.
+There is an [assets folder](./mesh-tools/asset-samples) with sample obj files to help you get started.
 
 ## License
 
