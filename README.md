@@ -14,9 +14,7 @@ This tool allows you to convert 3D mesh OBJ files into a series of PNG images, w
 
 ### 2. [Upscale Avatar Mesh](./mesh-tools/upscale-avatar/README.md)
 
-This tool allows you to convert 3D mesh OBJ files into a series of PNG images, which can then be compiled into a high-quality rotating GIF. It's ideal for generating visual assets from 3D models, whether for use in marketing materials or within your applications.
-
-This script processes a given 3D model (OBJ file), upscales its vertex count using subdivision, optionally reduces it using decimation, and exports the result as a new OBJ file.
+This tool processes a given 3D model (OBJ file), upscales its vertex count using subdivision, optionally reduces it using decimation, and exports the result as a new OBJ file.
 
 - **Features:**
   - Upscales Mesh by dynamically calculating the required subdivision levels to reach a target vertex count.
