@@ -12,7 +12,7 @@ This tool allows you to convert 3D mesh OBJ files into a series of PNG images, w
   - Customizable parameters for resolution, rotation step, camera zoom, shading, and more.
   - Supports high-resolution outputs, including 4K.
 
-### 2. [Upscale Avatar Mesh](./mesh-tools/upscale-avatar/readme.md)
+### 2. [Upscale Avatar Mesh](./mesh-tools/upscale-avatar/README.md)
 
 This tool allows you to convert 3D mesh OBJ files into a series of PNG images, which can then be compiled into a high-quality rotating GIF. It's ideal for generating visual assets from 3D models, whether for use in marketing materials or within your applications.
 
